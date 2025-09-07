@@ -4,7 +4,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?logo=jupyter)](https://jupyter.org/)
 [![Colab](https://img.shields.io/badge/Google-Colab-yellow.svg?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Library-f7931e.svg?logo=scikitlearn)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-ff6f00.svg?logo=tensorflow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c.svg?logo=pytorch)](https://pytorch.org/)
 
 Este repositorio contiene el material de apoyo, lecturas y laboratorios prácticos para el curso **Machine Learning 101**.  
 El curso sigue un enfoque **90% práctico**, apoyado en **Google Colab** y **GitHub** para la gestión de versiones.
